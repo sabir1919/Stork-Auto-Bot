@@ -1,13 +1,13 @@
 # Stork-Auto-Bot
 By Sabirusman 
 Installation
-Clone the repository:
+1:Clone the repository:
 git clone https://github.com/airdropinsiders/Stork-Auto-Bot.git
 Navigate to the project directory:
 cd Stork-Auto-Bot
-Install dependencies:
+2:Install dependencies:
 npm install
-Configure your credentials (see Configuration section below)
+3:Configure your credentials (see Configuration section below)
 Configuration
 Easy Setup with account.js
 The bot now uses a account.js file for credentials.
@@ -19,7 +19,7 @@ export const accounts = [
 ];
 Replace username and password with your Stork Oracle account credentials. just add new line if you wanna run many accounts
 
-Run the bot :
+4:Run the bot :
 
 node index.js
 Optional: Proxy Configuration
@@ -30,7 +30,7 @@ Add one proxy per line in any of these formats:
 HTTP proxies: http://user:pass@host:port
 SOCKS proxies: socks5://user:pass@host:port
 Usage
-Start the bot with:
+5:Start the bot with:
 
 node index.js
 The bot will:
