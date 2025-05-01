@@ -2,7 +2,7 @@
 By Sabirusman 
 Installation
 1:Clone the repository:
-git clone https://github.com/airdropinsiders/Stork-Auto-Bot.git
+git clone https://github.com/sabirusman/Stork-Auto-Bot.git
 Navigate to the project directory:
 cd Stork-Auto-Bot
 2:Install dependencies:
