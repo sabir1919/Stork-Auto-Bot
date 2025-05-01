@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/airdropinsiders/Stork-Auto-Bot.git"
+    "url": "git+https://github.com/sabirusman/Stork-Auto-Bot.git"
   },
   "keywords": [
     "stork",
@@ -19,12 +19,12 @@
     "bot",
     "automation"
   ],
-  "author": "Airdrop Insiders",
+  "author": "Sabir Usman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/airdropinsiders/Stork-Auto-Bot/issues"
+    "url": "https://github.com/sabirusman/Stork-Auto-Bot/issues"
   },
-  "homepage": "https://github.com/airdropinsiders/Stork-Auto-Bot#readme",
+  "homepage": "https://github.com/sabirusman/Stork-Auto-Bot#readme",
   "dependencies": {
     "amazon-cognito-identity-js": "^6.3.1",
     "axios": "^1.6.2",
